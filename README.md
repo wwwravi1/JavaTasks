@@ -7,4 +7,7 @@ Task2: create a restful web service using Jersey.
 
 Task3: create a Rest client using Apache CXF to consume the Rest service created in Task2
 
-Task4: create a Rest API using SpringRest and use SpringJdbc to persist the data in MySQL Database
+Task4: create a Rest API using SpringRest and use SpringJdbc to persist the data in MySQL Database.
+
+Task5: Use Spring Batch to read 1000 records from Database by using multiple threads in Spring Batch.
+
